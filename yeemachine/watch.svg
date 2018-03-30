@@ -52,6 +52,7 @@
 		 }
 	 </style>
 	 <g id="layer1">
+		 <rect x="179" y="149" fill="#FFFFFF" stroke="#272525" stroke-width="2.3069" stroke-miterlimit="10" width="250" height="446.96"/>
 <path d="M227.378,336.798c0,12.565-9.012,22.755-20.125,22.755H50.435c-11.114,0-20.126-10.189-20.126-22.755V154.76
 	c0-12.565,9.012-22.755,20.126-22.755h156.819c11.113,0,20.125,10.19,20.125,22.755V336.798z"/>
 <polyline style='animation:dashphone 2s cubic-bezier(0.670, 0.005, 0.200, 1.000) infinite;animation-delay:.3s' fill="none" stroke="#FFFFFF" stroke-width="17.4043" stroke-linecap="round" stroke-miterlimit="10" points="
